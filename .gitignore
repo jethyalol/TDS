@@ -1,0 +1,5 @@
+.env
+__pycache__/
+datagen.py
+dates.py
+pyvenv.cfg

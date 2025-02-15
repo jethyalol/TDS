@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai
+httpx
+pandas
+sqlite3
+pillow
