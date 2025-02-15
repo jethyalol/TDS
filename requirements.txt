@@ -1,7 +1,12 @@
 fastapi
 uvicorn
-openai
 httpx
+pydantic
 pandas
 sqlite3
-pillow
+duckdb
+markdown
+beautifulsoup4
+Pillow
+pytesseract
+shutil
